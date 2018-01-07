@@ -1,5 +1,21 @@
 # spring-boot-study
 
+本文试图梳理spring boot 生态的主要内容，包括：
+
+重要功能点
+
+运行方式、方法
+
+运维辅助措施
+
+提高开发效率的工具
+
+内部api
+
+大致启动过程及核心模块原理
+
+二次开发
+
 ## starter
 
 ### 常见的starter
@@ -36,3 +52,7 @@
 
 * spring boot dev tool
 类加载器方面有坑
+
+### 代码生成器
+
+[spring initializr](http://start.spring.io)
