@@ -14,7 +14,13 @@
 
 ## 日志控制
 
-## 后台运行
+## 运行方式
+
+### 作为1个后台服务
+
+* apache commons daemon
+
+### 在docker中运行
 
 * [Spring Boot Application as a Service](http://www.baeldung.com/spring-boot-app-as-a-service)
 
