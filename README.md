@@ -4,6 +4,8 @@
 
 ### 常见的starter
 
+* [spring starter 列表](https://github.com/konglz/spring-boot-study/blob/master/SPRING-BOOT-STAERER.list.md)
+
 ### 自定义starter
 
 ## servlet容器
